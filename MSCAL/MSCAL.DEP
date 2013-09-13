@@ -1,0 +1,15 @@
+
+; Dependency file for setup wizards.
+
+; Dependencies for MsCal.OCX
+
+; Default Dependencies ------------------------------------------------------
+
+[MSCAL.OCX]
+Dest=$(WinSysPath)
+Register=$(DLLSelfRegister)
+Version=9.0.0.2403
+Uses1=
+
+; Localized Dependencies -----------------------------------------------------------
+
